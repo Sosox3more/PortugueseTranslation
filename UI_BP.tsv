@@ -2004,47 +2004,46 @@ UI_20151224_002002
 UI_20151224_002003
 UI_20151224_002004
 UI_20151224_002005
-UI_20151224_002006
-UI_20151224_002007
-UI_20151224_002008
-UI_20151224_002009
-UI_20151224_002010
-UI_20151224_002011
-UI_20151224_002012
-UI_20151224_002013
+UI_20151224_002006  {@st42}Designer de Cenários{nl}{@st41b}{s22}Roch{nl}Rendering Studio Corp.{nl}Lisa Lee{nl}Dongho Kang{nl}JIN{nl}Yeonew{nl}Moje{nl}Hyunjung Lee{nl} {nl}{@st42}Content Design Manager{nl}{@st41b}{s22}Choungsu Lee{nl} {nl}{@st42}Content Designer{nl}{@st41b}{s22}Ujeong Son{nl}Wonjong Lee{nl}Orange Smith{nl}Jihyun Moon{nl}Jeongsu Kim{nl}Donghun Choe{nl}Seungyoung Jin{nl}Ginyi Lee{nl}Jongwook Moon{nl} {nl}{@st42}Scenario Writer{nl}{@st41b}{s22}Seion Kim{nl} {nl}{@st42}Conworlding Supervisor{nl}{@st41b}{s22}Martynas Siauciunas Kacinskas{nl}Kristina Kudriasova{/}
+UI_20151224_002007  {@st42}Diretor de Som{nl}{@st41b}{s22}sevin{nl} {nl}{@st42}Diretor Geral de Som{nl}{@st41b}{s22}MIGHT{nl} {nl}{@st42}Designer de Som{nl}{@st41b}{s22}VIKCO{nl} {nl}{@st42}UX/UI Gerente{nl}{@st41b}{s22}Gilyong Lee{nl} {nl}{@st42}UI Designer{nl}{@st41b}{s22}Jooyeon Seo{nl} {nl}{@st42}DBA{nl}{@st41b}{s22}Manju Han{nl} {nl}{@st42}Gerente de Controle de Qualidade{nl}{@st41b}{s22}Yonghyun Kim{nl} {nl}{@st42}Controle de Qualidade{nl}{@st41b}{s22}Yonghyun Ahn{nl}Eunyoung Park{nl}Mancheol No{nl}Eunyeong Lee{nl}Yebin Lheem{nl}Jaesoon Jang{nl}Jisu Park{/}
+UI_20151224_002008  {@st42}Diretor de Publicação Global{nl}{@st41b}{s22}Moojin Shin{nl} {nl}{@st42}Localização{nl}{@st41b}{s22}Jay{nl}Shawn{nl}Jenny{nl}John{nl} {nl}{@st42}Suporte Técnico{nl}{@st41b}{s22}Kangwoo Kim{nl}Wanjae Lee{nl}Sunyong Lee{nl}Sungkie Park{/}
+UI_20151224_002009  Selecione a cidade inicial 
+UI_20151224_002010  {@st44}Klaipeda
+UI_20151224_002011  {@st59s}A cidade mineira que avançou devido a Mina de Cristal.{nl}Essa cidade recebeu menor dano na Medzio Diena.{/}
+UI_20151224_002012  {@st44}Orsha
+UI_20151224_002013  {@st59s}Nós tentamos proteger do desastre invocando o castelo gigante em Medzio Diena.{nl}A catástrofe horrorizante até mesmo engoliu o castelo. 
 UI_20151224_002014
 UI_20151224_002015
 UI_20151224_002016
-UI_20151224_002017
-UI_20151224_002018
-UI_20151224_002019
-UI_20151224_002020
-UI_20151224_002021
-UI_20151224_002022
-UI_20151224_002023
-UI_20151224_002024
-UI_20151224_002025
-UI_20151224_002026
-UI_20151224_002027
-UI_20151224_002028
-UI_20151224_002029
-UI_20151224_002030
-UI_20151224_002031
-UI_20151224_002032
-UI_20151224_002033
-UI_20151224_002034
-UI_20151224_002035
-UI_20151224_002036
-UI_20151224_002037
-UI_20151224_002038
-UI_20151224_002039
-UI_20151224_002040
-UI_20151224_002041
-UI_20151224_002042
-UI_20151224_002043
-UI_20151224_002044
-UI_20151224_002045
-UI_20151224_002046
-UI_20151224_002047
-UI_20151224_002048
-UI_20151224_002049
+UI_20151224_002017  
+UI_20151224_002018  {@st42}Contagem de Reinicializações
+UI_20151224_002019  {@st41}Mensagem 
+UI_20151224_002020  {@st59}Mostrar o diálogo de Quest{/}
+UI_20151224_002021  {@st59}Abandonar Questt{/}
+UI_20151224_002022  {@st49}Visualizar/}
+UI_20151224_002023  {@st49}Adicionar{/}
+UI_20151224_002024  Obtido %s por %s
+UI_20151224_002025  Quantidade Restante
+UI_20151224_002026  Quantidade Restante : %s{/}
+UI_20151224_002027  {@st41}Compra{/}
+UI_20151224_002028  {@st45tw2}Pontos{/}
+UI_20151224_002029  Classificar por nome crescente 
+UI_20151224_002030  Classificar por nome decrescente
+UI_20151224_002031  Classificar por data
+UI_20151224_002032  {@st42}Benefícios Simbolicos{/}
+UI_20151224_002033  {@st66b}Mudar o quadro indicador do título 
+UI_20151224_002034  {@st41b}Comer
+UI_20151224_002035  {@st41b}Número
+UI_20151224_002036  
+UI_20151224_002037  Mostrar On-line
+UI_20151224_002038  
+UI_20151224_002039  Membro entrou a guilda 
+UI_20151224_002040  Registro de Guerra
+UI_20151224_002041  Lista da Guerra dos Clãs
+UI_20151224_002042  Tempo Restante
+UI_20151224_002043  Torres Disponíveis 
+UI_20151224_002044  Melhoria do Clã
+UI_20151224_002045  Rank de Contribuição
+UI_20151224_002046  Habilidades do Clã e Informações
+UI_20151224_002047  {@st42}%s Benefícios{/}
+UI_20151224_002048  Benefícios
